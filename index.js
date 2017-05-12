@@ -5,11 +5,10 @@ var output = {};
 var currentItem = '';
 
 fs.readFile('data.txt', 'utf8', function (error, data) {
-  if (error) {
+  if (error)
     return console.log(err);
-  }
 
-  lines = data.split(/\r\n|\r|\n/g);
+  var lines = data.split(/\r\n|\r|\n/g);
 
   for (var i = 0; i < lines.length; i++) {
     var line = lines[i];
@@ -18,6 +17,7 @@ fs.readFile('data.txt', 'utf8', function (error, data) {
     if (match) {
       currentItem = match[1];
       output[currentItem] = [];
+
       continue;
     }
 
@@ -37,8 +37,7 @@ fs.readFile('data.txt', 'utf8', function (error, data) {
   output = JSON.stringify(output);
 
   fs.writeFile('processed_data.txt', output, function(error) {
-    if (error) {
+    if (error)
       return console.log(error);
-    }
   });
 });
