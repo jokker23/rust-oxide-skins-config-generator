@@ -1,43 +1,26 @@
 const fs = require('fs');
 
-var output = {};
+let data = fs.readFileSync('item_skins_list.md', 'utf8');
+let lines = data.split(/\r\n|\r|\n/g);
 
-var currentItem = '';
+let output = {};
+let activeItem = '';
 
-fs.readFile('data.txt', 'utf8', function (error, data) {
-  if (error)
-    return console.log(err);
+for (let i = 0; i < lines.length; i++) {
+  let line = lines[i];
 
-  var lines = data.split(/\r\n|\r|\n/g);
-
-  for (var i = 0; i < lines.length; i++) {
-    var line = lines[i];
-
-    var match = /\(([^)]+)\)/.exec(line);
-    if (match) {
-      currentItem = match[1];
-      output[currentItem] = [];
-
-      continue;
-    }
-
-    if (line.startsWith('| ')) {
-      var match = /([0-9]+)(\s+[|])/.exec(line);
-
-      if (match) {
-        var match2 = /([0-9]+)/.exec(match[1])
-
-        if (match2) {
-          output[currentItem].push(parseInt(match2[1]));
-        }
-      }
-    }
+  let item = /\(([^)]+)\)/.exec(line);
+  if (item) {
+    activeItem = item[1];
+    output[activeItem] = [];
+    continue;
   }
 
-  output = JSON.stringify(output);
+  let entry = /^(?:\| )(\d+)/.exec(line);
+  if (entry) {
+    output[activeItem].push(parseInt(entry[1]));
+    continue;
+  }
+}
 
-  fs.writeFile('processed_data.txt', output, function(error) {
-    if (error)
-      return console.log(error);
-  });
-});
+fs.writeFileSync('processed_data.txt', JSON.stringify(output, null, '  '));
