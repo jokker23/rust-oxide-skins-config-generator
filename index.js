@@ -9,7 +9,7 @@ let activeItem = '';
 for (let i = 0; i < lines.length; i++) {
   let line = lines[i];
 
-  let item = /\(([^)]+)\)/.exec(line);
+  let item = /^(?:##.+\()(.+)(?:\))/.exec(line);
   if (item) {
     activeItem = item[1];
     output[activeItem] = [];
