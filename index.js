@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let data = fs.readFileSync('item_skins_list.md', 'utf8');
+let data = fs.readFileSync('item_skins_list.html.md', 'utf8');
 let lines = data.split(/\r\n|\r|\n/g);
 
 let output = {};
