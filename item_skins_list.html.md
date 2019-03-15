@@ -105,6 +105,28 @@ title: Item Skins
 | 1140366289   | War Machine AK47                  |
 | 1159593268   | Wyrm Rifle                        |
 | 1309470544   | X-RAY AK47                        |
+| 1599157678   | Hell's Dogs                  |
+| 1588206436   | Gingerbread AK                  |
+| 1583542371   | Cold Hunter AK                  |
+| 1575397458   | Huntsman AK47                  |
+| 1549426268   | Polymer AK47                  |
+| 1539007965   | T-Bone AK47                  |
+| 1539409946   | Scarecrow AK47                  |
+| 1539318940   | Nightmare AK47                  |
+| 1522034435   | Phantom AK                  |
+| 1476966011   | Gearlord AK47                  |
+| 1435827815   | Beast of Industry                  |
+| 1362212220   | Gold Rush AK                  |
+| 1402320927   | Trophy Pirate AK47                  |
+| 1467269924   | Toxic                  |
+| 1457951707   | Midnight Dream                  |
+| 1448221547   | Etherya AK47                  |
+| 1434027951   | Last Phoenix                  |
+| 1428980348   | Marrakesh                  |
+| 1352844155   | REX                  |
+| 1364985829   | Green Dragon AK47                  |
+| 809212871   | Battle Scarred AK47                  |
+
 
 ## Bandana Mask (mask.bandana)
 | Skin Id      | Skin name                         |
@@ -123,6 +145,9 @@ title: Item Skins
 | 10064        | Skull Bandana                     |
 | 10062        | Snow Camo Bandana                 |
 | 10079        | Wizard Bandana                    |
+| 820870847   | Beast Bandana                  |
+| 1438048628   | Burlap Bandit Bandana                  |
+
 
 ## Baseball Cap (hat.cap)
 | Skin Id      | Skin name                         |
@@ -168,6 +193,10 @@ title: Item Skins
 | 1119629516   | Steel and Brass BAR               |
 | 1161165984   | Survivor BAR                      |
 | 10116        | Tundra Bolt Rifle                 |
+| 1587273896   | Granny's Bolt                  |
+| 1535660827   | Beauty Kills                  |
+| 1517933342   | Bolt From Hell                  |
+
 
 ## Bone Club (bone.club)
 | Skin Id      | Skin name                         |
@@ -233,6 +262,10 @@ title: Item Skins
 | 10022        | Tan Boots                         |
 | 961096730    | Wasteland Hunter Boots            |
 | 944997041    | Yellow Race Boots                 |
+| 1395755190   | Marsh Lurker Boots                  |
+| 1441308562   | Brony Boots                  |
+| 1432967312   | Cajun Boots                  |
+| 1406796292   | Badboy Boots                  |
 
 ## Bucket Helmet (bucket.helmet)
 | Skin Id      | Skin name                         |
@@ -419,6 +452,11 @@ title: Item Skins
 | 1107572641   | Survivor SMG                      |
 | 854914986    | Tank SMG                          |
 | 822943156    | tRUSTy Friend                     |
+| 1597038037   | Metalhead SMG                  |
+| 1523699528   | Tempered SMG                  |
+| 970682025   | Warpaint SMG                  |
+| 1446184061   | Pathogenesis                  |
+
 
 ## Double Barrel Shotgun (shotgun.double)
 | Skin Id      | Skin name                         |
@@ -442,6 +480,16 @@ title: Item Skins
 | 1277558450   | Steam DBS                         |
 | 1225880743   | Vigilante DBS                     |
 | 1247696065   | Whopper DBS                       |
+| 1616108563   | Witchhunter DBS                  |
+| 1569952704   | СМЭРТЬ                  |
+| 1590495543   | Santa's Blaster                  |
+| 1522902588   | Hippie Blaster                  |
+| 1441939951   | Raider's Shotgun                  |
+| 1465627520   | Predator DBS                  |
+| 1448142776   | Blunderbuss                  |
+| 1414878365   | Last Blast Twins                  |
+| 1408050439   | Mad DBS                  |
+
 
 ## Eoka Pistol (pistol.eoka)
 | Skin Id      | Skin name                         |
@@ -453,6 +501,8 @@ title: Item Skins
 | 926184643    | Japanese Tanegashima              |
 | 920310954    | Nordic Relic                      |
 | 857750032    | Primal Gun                        |
+| 1413731110   | Last Blast                  |
+
 
 ## F1 Grenade (grenade.f1)
 | Skin Id      | Skin name                         |
@@ -537,6 +587,18 @@ title: Item Skins
 | 1183127702   | Rolling Exit Door                 |
 | 1358030533   | Sailor's Garage Door              |
 | 1306203844   | Trash Garage Door                 |
+| 1645407409   | Minicopter Hangar Door                  |
+| 1617613419   | Caution Garage Door                  |
+| 1575268855   | Electro Garage Door                  |
+| 1539143998   | House of Horror                  |
+| 1529742943   | Cobalt Cargo Door                  |
+| 1523814360   | Danger Garage Door                  |
+| 1465843732   | Longtail Garage Door                  |
+| 1461027316   | Monster Garage Door                  |
+| 1415167317   | Brutal Jaws Garage Door                  |
+| 1415079530   | Cursed Pirate Garage Door                  |
+| 1428456080   | War Door                  |
+| 1681156339   | Cali Garage Door                   |
 
 ## Hammer (hammer)
 | Skin Id      | Skin name                         |
@@ -707,6 +769,18 @@ title: Item Skins
 | 954947279    | Worker Hoodie                     |
 | 941172099    | Yellow Police Jacket              |
 | 926162531    | Yellow Racer Hoodie               |
+| 1638742127   | Railway Engineer Hoodie                  |
+| 1292091712   | Scrapper Hoodie                  |
+| 1623185000   | Survivor Jacket                  |
+| 1587744366   | Christmas Gang Hoodie                  |
+| 1581817010   | Electrician Hoodie                  |
+| 1564974974   | Charitable Rust 2018 Hoodie                  |
+| 1552703337   | CCSC Hoodie                  |
+| 1385322661   | Marsh Lurker Hoodie                  |
+| 1448343881   | Mad Rider Hoodie                  |
+| 1432964453   | Cajun Hoodie                  |
+| 1408832378   | Badboy Hoodie                  |
+
 
 ## Improvised Balaclava (mask.balaclava)
 | Skin Id      | Skin name                         |
@@ -885,6 +959,8 @@ title: Item Skins
 | 10036        | Sign Painter                      |
 | 10042        | Varsity Jacket                    |
 | 10007        | Yellow Longsleeve T-Shirt         |
+| 1416787006   | Rust Goalkeeper Shirt                  |
+
 
 ## Longsword (longsword)
 | Skin Id      | Skin name                         |
@@ -895,6 +971,31 @@ title: Item Skins
 | 831965423    | Kryss Longsword                   |
 | 855009078    | Wakizashi                         |
 | 825008040    | Xtreme Sword                      |
+
+## LR-300 (lr300.item)
+| Skin Id      | Skin name                         |
+|--------------|-----------------------------------|
+| 1644715625   | Marked for Death                  |
+| 1621894466   | Badlands LR-300                  |
+| 1612152593   | Icarus LR300                  |
+| 1604879931   | Dead Ringer LR300                  |
+| 1578816958   | Ice Marine LR300                  |
+| 1569062511   | BullDozer LR300                  |
+| 1553359638   | Cold Hunter LR 300                  |
+| 1535995784   | Bogeyman LR300                  |
+| 1225499752   | Deathcore LR300                  |
+| 1481478360   | Tempered Steel LR300                  |
+| 1419392688   | Fury Ex Red                  |
+| 1308037543   | Polymer LR300                  |
+| 1282171260   | Warhead LR300                  |
+| 1264358358   | Midway LR300                  |
+| 1239079767   | Bone Grinder LR-300                  |
+| 1203322875   | Wildfire LR-300                  |
+| 1176479716   | Survivor LR-300                  |
+| 1177273104   | Mercenary Rifle                  |
+| 1174458060   | Daemon Strike                  |
+| 1173459827   | LR300 - Wild                  |
+| 1173523145   | Bulletstorm                  |
 
 ## Metal Chest Plate (metal.plate.torso)
 | Skin Id      | Skin name                         |
@@ -924,6 +1025,15 @@ title: Item Skins
 | 970700662    | Space Rocket Chest Plate          |
 | 1135168998   | War Machine Chestplate            |
 | 1113984430   | Warface Chestplate                |
+| 1638812721   | Glory Armor Chest                  |
+| 1578628782   | Troll Daddy Chest Plate                  |
+| 1581353262   | Berserk Chest Plate                  |
+| 1586132318   | Naughty Gingerbread Chestplate                  |
+| 1587225313   | Santa Chest Plate                  |
+| 1575392727   | Huntsman Chest Plate                  |
+| 1522963149   | Wanderer's Chest Plate                  |
+| 1421841596   | Whaleman Chestplate                  |
+
 
 ## Metal Facemask (metal.facemask)
 | Skin Id      | Skin name                         |
@@ -981,6 +1091,15 @@ title: Item Skins
 | 1135160079   | War Machine Mask                  |
 | 1113983678   | Warface Mask                      |
 | 832934294    | Where Eagles Dare                 |
+| 1638135398   | Glory Mask                  |
+| 1581351961   | Berserk Facemask                  |
+| 1586135331   | Naughty Gingerbread Facemask                  |
+| 1587225942   | Santa Metal Facemask                  |
+| 1575391468   | Huntsman Facemask                  |
+| 1547874663   | Troll Daddy Mask                  |
+| 1522955755   | Wanderer's Face Mask                  |
+| 1421829383   | Whaleman Facemask                  |
+
 
 ## Miners Hat (hat.miner)
 | Skin Id      | Skin name                         |
@@ -1005,6 +1124,10 @@ title: Item Skins
 | 914624163    | Urban Camo MP5                    |
 | 1084800708   | Wild Flame MP5                    |
 | 1087199678   | Wild Tiger MP5                    |
+| 1637174724   | Icarus MP5                  |
+| 1603970802   | Batteries Not Included                  |
+| 1413917236   | Wasp MP5                  |
+
 
 ## Pants (pants)
 | Skin Id      | Skin name                         |
@@ -1047,6 +1170,18 @@ title: Item Skins
 | 961084105    | Wasteland Hunter Pants            |
 | 955615160    | Worker Pants                      |
 | 930559188    | Yellow Racer Pants                |
+| 1638743634   | Railway Engineer Pants                  |
+| 1292094174   | Scrapper Pants                  |
+| 1623181884   | Survivor Pants                  |
+| 1587846022   | Christmas Gang Pants                  |
+| 1581822078   | Electrician Pants                  |
+| 1552705077   | CCSC Pants                  |
+| 1385326314   | Marsh Lurker Pants                  |
+| 1448346336   | Mad Rider Pants                  |
+| 1441311938   | Brony Pants                  |
+| 1432965178   | Cajun Pants                  |
+| 1406835139   | Badboy Pants                  |
+
 
 ## Pickaxe (pickaxe)
 | Skin Id      | Skin name                         |
@@ -1067,6 +1202,15 @@ title: Item Skins
 | 863455081    | Tarnished Sun Pick Axe            |
 | 1121521173   | Tomb Pickaxe                      |
 | 1325483813   | Virulent Pick Axe                 |
+| 1572401500   | Taurus Pick Axe                  |
+| 1553326380   | Runic Pick Axe                  |
+| 1428399027   | Raventale Pick Axe                  |
+| 1414450451   | Regal Pick Axe                  |
+| 1466675896   | Machinery Pickaxe                  |
+| 1444912645   | Montezuma Pick Axe                  |
+| 1435220253   | Pharon Pick Axe                  |
+| 1407877776   | Hazard Pick Axe                  |
+
 
 ## Pump Shotgun (shotgun.pump)
 | Skin Id      | Skin name                         |
@@ -1087,6 +1231,9 @@ title: Item Skins
 | 849997025    | The Billy Baroo                   |
 | 10140        | The Swampmaster                   |
 | 731119713    | Urban Afterburn Pump Shotgun      |
+| 1476013941   | Psychosis Pump                  |
+| 1553603344   | Dead Ringer Pump Shotgun                  |
+
 
 ## Python Revolver (pistol.python)
 | Skin Id      | Skin name                         |
@@ -1112,6 +1259,22 @@ title: Item Skins
 | 1223105431   | Trausi's Python                   |
 | 1235690536   | Warstory Python                   |
 | 1258109891   | Widowmaker Python                 |
+| 1624620555   | Celtic Python                  |
+| 1605379554   | Peacemaker Python                  |
+| 1406640269   | Hollow Point Gifter                  |
+| 1563667918   | Dragon's Spit                  |
+| 1362224646   | Sea Monster Python                  |
+| 1529514494   | Tempered Python                  |
+| 1421351634   | Caution Python                  |
+| 1461918011   | Pegasus Python                  |
+| 1457537882   | Bite Python                  |
+| 1445908611   | Nitro Junkie Python                  |
+| 1455062983   | Duelist's Python                  |
+| 1435364672   | Metalhead Python                  |
+| 1435858834   | Pink Death Python                  |
+| 1418647979   | Morocco Python                  |
+| 1373936691   | Hellraiser Python                  |
+
 
 ## Reactive Target (target.reactive)
 | Skin Id      | Skin name                         |
@@ -1148,6 +1311,15 @@ title: Item Skins
 | 973871108    | Sting Revolver                    |
 | 1217455695   | Tribal Revolver                   |
 | 887846629    | Western Revolver Gold             |
+| 1580859157   | Nuke Pistol                  |
+| 1536482422   | Frankenstein Revolver                  |
+| 1517889157   | Emerald Revolver                  |
+| 1448503557   | Metalhead Revolver                  |
+| 1447877728   | Sailor's Revolver                  |
+| 1435664860   | Radioactive Revolver                  |
+| 1428863076   | Pink Death Revolver                  |
+| 1408242038   | Regal Revolver                  |
+
 
 ## Riot Helmet (riot.helmet)
 | Skin Id      | Skin name                         |
@@ -1164,6 +1336,8 @@ title: Item Skins
 | 950182163    | Raider Helmet                     |
 | 869709888    | Ruthless Riot Helmet              |
 | 930563894    | Yellow Racer Helmet               |
+| 1414953014   | Bumble Bee Helmet                  |
+
 
 ## Road Sign Jacket (roadsign.jacket)
 | Skin Id      | Skin name                         |
@@ -1205,6 +1379,15 @@ title: Item Skins
 | 1130599258   | Utilizer Vest                     |
 | 1400828574   | Vandal Graffiti Vest              |
 | 932778217    | Wasteland Legionnaire             |
+| 1558586741   | Troll Daddy Roadsign Vest                  |
+| 1539573170   | Night Stalker Vest                  |
+| 1539651543   | Scary Vest                  |
+| 1438089648   | Ornate Vest                  |
+| 1442341176   | Chaos Armored Vest                  |
+| 1442162947   | Viking Armor Vest                  |
+| 1441844877   | Peacemaker Vest                  |
+| 1388417448   | Snap Turtle Vest                  |
+
 
 ## Road Sign Kilt (roadsign.kilt)
 | Skin Id      | Skin name                         |
@@ -1246,6 +1429,15 @@ title: Item Skins
 | 1130405286   | Tank Crew Roadsign Pants          |
 | 1130610212   | Utilizer Pants                    |
 | 1400837602   | Vandal Graffiti Pants             |
+| 1558579257   | Troll Daddy Roadsign Pants                  |
+| 1539570583   | Night Stalker Kilt                  |
+| 1539652650   | Scary Kilt                  |
+| 1438090382   | Ornate Pants                  |
+| 1442346890   | Chaos Armored Pants                  |
+| 1442167045   | Viking Armor Pants                  |
+| 1441848470   | Peacemaker Pants                  |
+| 1388416860   | Snap Turtle Pants                  |
+
 
 ## Rock (rock)
 | Skin Id      | Skin name                         |
@@ -1264,6 +1456,16 @@ title: Item Skins
 | 834287924    | Ripe Watermelon                   |
 | 824904841    | Shard of True Ice                 |
 | 1126754320   | Sharptooth                        |
+| 1636101879   | Big Burger                  |
+| 1617334269   | Moon Light                  |
+| 1595910049   | Dragon Egg                  |
+| 1539197932   | Pumpkin Rock                  |
+| 1530140666   | Football Rock                  |
+| 1467090959   | Shaman Rock                  |
+| 1458528823   | Swamp Rock                  |
+| 1435229543   | Adventurer's Rock                  |
+| 1368454662   | Best Friend                  |
+
 
 ## Rocket Launcher (rocket.launcher)
 | Skin Id      | Skin name                         |
@@ -1287,6 +1489,8 @@ title: Item Skins
 | 871072156    | Soviet Carpet                     |
 | 870851438    | Tailor`s Carpet                   |
 | 1114718055   | Tarp Rug                          |
+| 1461385713   | Rust Island Car Rug                  |
+
 
 ## Rug Bear Skin (rug.bear)
 | Skin Id      | Skin name                         |
@@ -1320,6 +1524,14 @@ title: Item Skins
 | 930557072    | Trained To Kill                   |
 | 1313755167   | Trash Sword                       |
 | 825240467    | Wooden Sword                      |
+| 1624719255   | Zap Slasher                  |
+| 1587541456   | Candybober Sword                  |
+| 1568609421   | Buccaneer Blade                  |
+| 1535765451   | Tempered Sword                  |
+| 1442017029   | Rainbow Sword                  |
+| 1455468520   | Grid Strike                  |
+| 1442148142   | Oblivion Sword                  |
+
 
 ## Sandbag Barricade (barricade.sandbags)
 | Skin Id      | Skin name                         |
@@ -1383,6 +1595,12 @@ title: Item Skins
 | 829983759    | Tehno Pistol                      |
 | 1092676141   | Triad SAP                         |
 | 935205778    | Yellow Racer SAP                  |
+| 1630961792   | Holographic SAP                  |
+| 1571099329   | Nineties Zapper                  |
+| 1553005167   | Tempered SAP - Ornate                  |
+| 1428766159   | Cold-Forged Pistol                  |
+| 1446715780   | Reptile SAP                  |
+
 
 ## Semi-Automatic Rifle (rifle.semiauto)
 | Skin Id      | Skin name                         |
@@ -1420,6 +1638,16 @@ title: Item Skins
 | 1279791283   | Urban Light SAR                   |
 | 1300137383   | Warbeast SAR                      |
 | 818613234    | Workbench SAR                     |
+| 1621472496   | Metalhead SAR                  |
+| 1616628843   | Cold Hunter SAR                  |
+| 1576671137   | Northwind SAR                  |
+| 1566048269   | Sea Eater SAR                  |
+| 1522185915   | Primal SAR                  |
+| 1517644801   | Drake SAR                  |
+| 1446861251   | Royal SAR                  |
+| 1448088345   | Gold Phoenix SAR                  |
+| 1429032578   | Mojave SAR                  |
+
 
 ## Sheet Metal Door (door.hinged.metal)
 | Skin Id      | Skin name                         |
@@ -1524,6 +1752,10 @@ title: Item Skins
 | 793871235    | Cutoff Shorts                     |
 | 818068257    | Homemade Shorts                   |
 | 799006291    | Snow Camo Shorts                  |
+| 1416779855   | Rust Goalkeeper Shorts                  |
+| 1412875829   | Rust Footballer Shorts                  |
+
+
 
 ## Sleeping Bag (sleepingbag)
 | Skin Id      | Skin name                         |
@@ -1557,6 +1789,12 @@ title: Item Skins
 | 944993672    | Undead Bedroll                    |
 | 10076        | Wood Camo Sleeping Bag            |
 | 1228238024   | Wood Sleeping Bag                 |
+| 1624628815   | Regeneration Program                  |
+| 1586749954   | Seasons Beatings                  |
+| 1565127136   | Sleepover Bag                  |
+| 1447956760   | Captain's Bed                  |
+| 1466734204   | Peacemaker Sleeping Bag                  |
+
 
 ## Snow Jacket - Red (jacket.snow)
 | Skin Id      | Skin name                         |
@@ -1593,6 +1831,12 @@ title: Item Skins
 | 1306176753   | Tree Killer                       |
 | 1342121150   | Tribal Stone Hatchet              |
 | 878257758    | Volcanic Stone Hatchet            |
+| 1594996565   | Winter Hatchet                  |
+| 1559244155   | Bone Dragon Hatchet                  |
+| 1428010053   | Dragon Glass Stone Hatchet                  |
+| 1438048408   | Abstraction Stone Hatchet                  |
+| 1428438688   | Mosaic Stone Hatchet                  |
+
 
 ## Stone Pickaxe (stone.pickaxe)
 | Skin Id      | Skin name                         |
@@ -1608,6 +1852,10 @@ title: Item Skins
 | 1196675392   | Stonecraft Pick Axe               |
 | 1342118597   | Tribal Stone Pickaxe              |
 | 837149011    | Uprising Stone Pickaxe            |
+| 1594886582   | Winter Pickaxe                  |
+| 1428014003   | Dragon Glass Stone Pickaxe                  |
+| 1428446680   | Mosaic Stone Pick Axe                  |
+
 
 ## Table (table)
 | Skin Id      | Skin name                         |
@@ -1651,6 +1899,8 @@ title: Item Skins
 | 10039        | Target Practice T-Shirt           |
 | 584379       | Urban Camo                        |
 | 10043        | Vyshyvanka Shirt                  |
+| 1412895302   | Rust Footballer Shirt                  |
+
 
 ## Vending Machine (vending.machine)
 | Skin Id      | Skin name                         |
@@ -1691,6 +1941,8 @@ title: Item Skins
 | 10143        | The Peace Pipe                    |
 | 1181616781   | Twisted Pipe                      |
 | 832764933    | Western Waterpipe Shotgun         |
+| 1421462560   | Pirate Pipe                  |
+
 
 ## Wood Storage Box (box.wooden)
 | Skin Id      | Skin name                         |
