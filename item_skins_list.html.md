@@ -36,6 +36,10 @@ title: Item Skins
 | 1092678229   | Safe Room Door                    |
 | 1135412861   | TacCom Security Door              |
 | 885928673    | Urban Armored Door                |
+| 1605324677   | Mainframe Door                  |
+| 1557857999   | Cargo Ship Security Door                  |
+| 1477263064   | HellBunker Door                  |
+
 
 ## Assault Rifle (rifle.ak)
 | Skin Id      | Skin name                         |
@@ -133,6 +137,8 @@ title: Item Skins
 | 10045        | Rescue Cap                        |
 | 890772638    | Toothy Hat                        |
 | 893188334    | Top Cap                           |
+| 1565217605   | Charitable Rust 2018 Cap                  |
+
 
 ## Beenie Hat (hat.beenie)
 | Skin Id      | Skin name                         |
@@ -170,6 +176,8 @@ title: Item Skins
 | 791109245    | Little Friend                     |
 | 888839261    | Maracas Bone Club                 |
 | 945026868    | Sacrificial Club                  |
+| 1557788243   | Bone Scepter                     |
+
 
 ## Bone Helmet (deer.skull.mask)
 | Skin Id      | Skin name                         |
@@ -196,6 +204,8 @@ title: Item Skins
 | 1185551523   | Hunted Hat                        |
 | 865054618    | Leather Boonie Hat                |
 | 833565406    | PVC Hat                           |
+| 1438050325   | Burlap Bandit Hat                  |
+
 
 ## Boots (shoes.boots)
 | Skin Id      | Skin name                         |
@@ -268,6 +278,9 @@ title: Item Skins
 | 1229561297   | Santa's Helper Shirt              |
 | 882451685    | Sleazy Rider                      |
 | 1294812700   | Whens Whip?                       |
+| 1438049725   | Burlap Bandit Shirt                  |
+| 1394039696   | Junkyard King Shirt                  |
+
 
 ## Burlap Shoes (burlap.shoes)
 | Skin Id      | Skin name                         |
@@ -285,6 +298,9 @@ title: Item Skins
 | 809968188    | Recycled Tarp Pants               |
 | 1145780081   | Rioter's Pants                    |
 | 1323664071   | Road Raider Pants                 |
+| 1438049211   | Burlap Bandit Pants                  |
+| 1394040054   | Junkyard King Pants                  |
+
 
 ## Chair (chair)
 | Skin Id      | Skin name                         |
@@ -332,6 +348,14 @@ title: Item Skins
 | 1400824309   | Vandal Graffiti Helmet            |
 | 809816871    | Warboy Helmet                     |
 | 854460770    | Welding Helmet                    |
+| 1539575334   | Night Stalker Helmet                  |
+| 1539650632   | Scary Helmet                  |
+| 1438088592   | Ornate Helmet                  |
+| 1445131741   | Chaos Helmet                  |
+| 1442169133   | Viking Helmet                  |
+| 1441850738   | Peacemaker Helmet                  |
+| 1388417865   | Snap Turtle Helmet                  |
+
 
 ## Concrete Barricade (barricade.concrete)
 | Skin Id      | Skin name                         |
@@ -367,6 +391,13 @@ title: Item Skins
 | 856029421    | Tank Crossbow                     |
 | 1367933148   | Tribal Crossbow                   |
 | 1383105648   | Victoria Crossbow                 |
+| 1565444858   | Caution Crossbow                  |
+| 1559298697   | Tooth Monster Crossbow                  |
+| 1408631840   | Trophy Pirate Crossbow                  |
+| 1466387739   | Heart Shot                  |
+| 1428614422   | Hunter's crossbow                  |
+| 1421675342   | Makeshift Crossbow                  |
+
 
 ## Custom SMG (smg.2)
 | Skin Id      | Skin name                         |
@@ -470,6 +501,26 @@ title: Item Skins
 | 1367939983   | Treasure Furnace                  |
 | 1261530424   | Urban Furnace                     |
 | 1231071505   | Victorian Furnace                 |
+| 1640730462   | Octo Furnace                  |
+| 1636919294   | Personal Lighthouse                  |
+| 1632040649   | Furious Volcano                  |
+| 1587959070   | Сhristmas Night                  |
+| 1587226587   | Santa Furnace                  |
+| 1588458946   | Home Sweet Home                  |
+| 1575177513   | Tribe Furnace                  |
+| 1539005624   | Ghostly Flame                  |
+| 1539436979   | Spooky Slime Furnace                  |
+| 1387619038   | Marble Furnace                  |
+| 1529559770   | Sea Devil Furnace                  |
+| 1457061230   | Cursed Soul Furnace                  |
+| 1458047080   | Toxic Furnace                  |
+| 1448350353   | Ancient Totem Furnace                  |
+| 1467078851   | Wild Furnace                  |
+| 1421455358   | Mad Iron Furnace                  |
+| 1427551950   | Iron Calamity                  |
+| 1391109786   | Hellfire Furnace                  |
+| 1408433814   | Artist's Furnace                  |
+
 
 ## Garage Door (wall.frame.garagedoor)
 | Skin Id      | Skin name                         |
@@ -501,6 +552,10 @@ title: Item Skins
 | 833423263    | Scorched Hammer                   |
 | 961294045    | Trap Base Weaver                  |
 | 822539548    | Welded Hammer                     |
+| 1586965130   | Snowman Hammer                  |
+| 1539336419   | Braineater Hammer                  |
+| 1457914371   | Calamity Hammer                  |
+
 
 ## Hatchet (hatchet)
 | Skin Id      | Skin name                         |
@@ -548,6 +603,17 @@ title: Item Skins
 | 825033005    | Vintage Hatchet                   |
 | 1325481133   | Virulent Hatchet                  |
 | 1258108678   | Widowmaker Hatchet                |
+| 1620492374   | Virus Hatchet                  |
+| 1572398539   | Taurus Hatchet                  |
+| 1553321287   | Runic Hatchet                  |
+| 1422179740   | Raventale Hatchet                  |
+| 1414446668   | Regal Hatchet                  |
+| 1466664834   | Machinery Hatchet                  |
+| 1448232793   | Reaper Hatchet                  |
+| 1435214632   | Pharon Hatchet                  |
+| 1378023158   | Secret Zone Hatchet                  |
+| 1407875352   | Hazard Hatchet                  |
+
 
 ## Hide Boots (attire.hide.boots)
 | Skin Id      | Skin name                         |
@@ -740,6 +806,24 @@ title: Item Skins
 | 1119263507   | Vaccine box                       |
 | 854718942    | Weapons Box                       |
 | 1159589238   | Wyrm Chest                        |
+| 1627583152   | Digital Security Box              |
+| 1630549771   | Monster Box                       |
+| 1617361106   | Egiptu Box                        |
+| 1582501552   | Gingerbread Box                   |
+| 1575872461   | Large Suitcase                    |
+| 1565532295   | Charitable Rust 2018 Box          |
+| 1557427113   | Open Stone Box                    |
+| 1547157690   | Varangian Chest                   |
+| 1196352289   | Box from Hell                     |
+| 1539262307   | Creepy Box                        |
+| 1535990243   | Peacemaker Box                    |
+| 1524018833   | Labyrinth Box                     |
+| 1517816237   | Oathbreaker Box                   |
+| 1466559128   | Divinity Chest                    |
+| 1456233168   | Pharaoh Mummy Box                 |
+| 1447962258   | Toxic Box                         |
+| 1443958473   | Defender Box                      |
+
 
 ## Leather Gloves (burlap.gloves)
 | Skin Id      | Skin name                         |
@@ -762,6 +846,15 @@ title: Item Skins
 | 962495909    | Stalker Gloves                    |
 | 1084390180   | Tailgunner Gloves                 |
 | 961103399    | Wasteland Hunter Gloves           |
+| 1633859273   | Glory Gloves                  |
+| 1623175153   | Survivor Gloves                  |
+| 1552705918   | CCSC Gloves                  |
+| 1395757825   | Marsh Lurker Gloves                  |
+| 1448347837   | Mad Rider Gloves                  |
+| 1432966221   | Cajun Gloves                  |
+| 1406800025   | Badboy Gloves                  |
+| 1394040487   | Junkyard King Gloves                  |
+
 
 ## Locker (locker)
 | Skin Id      | Skin name                         |
@@ -1242,6 +1335,8 @@ title: Item Skins
 | 856333895    | Close Enough                      |
 | 855084816    | Military Satchel Charge           |
 | 855113878    | Red Leather Day                   |
+| 1586074827   | Festive Surprise                  |
+
 
 ## Semi-Automatic Pistol (pistol.semiauto)
 | Skin Id      | Skin name                         |
@@ -1386,6 +1481,30 @@ title: Item Skins
 | 1380022034   | Trophy Pirate Door                |
 | 914869833    | Truck Door                        |
 | 1328566466   | Urban Night Door                  |
+| 1631261352   | Evil Within                  |
+| 1617363766   | Egiptu Door                  |
+| 1595324955   | Santa's Front Door                  |
+| 1587777999   | Nutcracker                  |
+| 1587119000   | Snowman Door                  |
+| 1576050073   | Power Door                  |
+| 1565096963   | Dreamer's Door                  |
+| 1205721755   | Lost Hope Door                  |
+| 1539115581   | Door of Flesh                  |
+| 1514174191   | Potty Door                  |
+| 1524017223   | Labyrinth Door                  |
+| 1523940330   | Quarantine Area                  |
+| 1447671986   | Emergency Exit Door                  |
+| 1448354224   | Guardian Door                  |
+| 1457845730   | Ancient Totem Door                  |
+| 1466554259   | Divinity Door                  |
+| 1447958101   | Toxic Door                  |
+| 1443957299   | Defender Door                  |
+| 1438420454   | Flower Power Door                  |
+| 1435254318   | Night Sky Door                  |
+| 1412241247   | Corinthian Door                  |
+| 1415394917   | Bandit Sheet Metal Door                  |
+| 1412186246   | Pug Tower Door                  |
+
 
 ## Shirt (shirt.collared)
 | Skin Id      | Skin name                         |
@@ -1583,6 +1702,9 @@ title: Item Skins
 | 889212734    | Seed Box                          |
 | 930694436    | Small Medical Box                 |
 | 1127078435   | Treasure Crate                    |
+| 1644263172   | High Voltage Box                  |
+| 1529745641   | Sea Supply Box                    |
+| 1455068496   | Duelist's Wood Box                |
 
 ## Wooden Door (door.hinged.wood)
 | Skin Id      | Skin name                         |
@@ -1609,3 +1731,9 @@ title: Item Skins
 | 1362500013   | Vandal's Peace Door               |
 | 1260913194   | Wisdom Door                       |
 | 950184212    | Wise Door                         |
+| 1605229872   | Cobalt Wooden Door                  |
+| 1539681696   | Hell-o-ween Wooden Door                  |
+| 1269783329   | Metal Tree Door                  |
+| 1415496136   | Pirate Wooden Door                  |
+| 1428632857   | Viking Door                  |
+| 1415059257   | Cursed Wooden Door                  |
