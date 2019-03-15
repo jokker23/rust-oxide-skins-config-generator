@@ -972,7 +972,7 @@ title: Item Skins
 | 855009078    | Wakizashi                         |
 | 825008040    | Xtreme Sword                      |
 
-## LR-300 (lr300.item)
+## LR-300 (rifle.lr300)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
 | 1644715625   | Marked for Death                  |
